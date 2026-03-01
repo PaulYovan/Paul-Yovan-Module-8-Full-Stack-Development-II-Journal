@@ -1,5 +1,8 @@
 # Paul-Yovan-Module-8-Full-Stack-Development-II-Journal
 
+# Youtube Video Link
+https://youtu.be/Ao3JuLKSRSk
+
 # What skills have you learned, developed, or mastered in this course to help you become a more marketable candidate in your career field?
 Some of the skills I've learned are how to move one database to another type of database, as well as move a static website over to a cloud-based environment using Amazon Web Services. Some of the skills I've developed with this course are my experience with MongoDB and now my newfound knowledge of how to use DynamoDB as well as S3 buckets. These skills make me a more marketable candidate as I now know how the cloud works for programming, which is essential at this time due to most things moving over to the cloud.
 
