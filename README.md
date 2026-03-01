@@ -1,4 +1,4 @@
-# Paul-Yovan-Module-8-Full-Stack-Development-II-Journal 03/01/2026
+# Paul-Yovan-Module-8-CS-470-Final-Reflection 03/01/2026
 
 # Youtube Video Link
 https://youtu.be/Ao3JuLKSRSk
